@@ -1,1 +1,2 @@
-test 2 file
+<<<<<<< HEAD
+this is test file
